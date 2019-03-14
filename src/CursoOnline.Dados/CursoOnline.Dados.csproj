@@ -10,7 +10,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="2.2.3" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Contexts\" />
+    <Folder Include="Context\" />
     <Folder Include="Repositories\" />
   </ItemGroup>
   <ItemGroup>

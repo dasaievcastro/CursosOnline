@@ -1,4 +1,5 @@
-﻿using System;
+﻿using CursoOnline.Dominio.Cursos;
+
 namespace CursoOnline.Dominio.Test.Builders
 {
     public class BuilderCurso

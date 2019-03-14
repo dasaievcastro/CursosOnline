@@ -1,4 +1,4 @@
-﻿namespace CursoOnline.Dominio
+﻿namespace CursoOnline.Dominio.Cursos
 {
     public interface IRepositorioCurso : IRepositorioBase<Curso>
     {

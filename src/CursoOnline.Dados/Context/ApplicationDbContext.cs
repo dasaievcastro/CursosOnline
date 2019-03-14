@@ -1,4 +1,4 @@
-﻿using CursoOnline.Dominio;
+﻿using CursoOnline.Dominio.Cursos;
 using Microsoft.EntityFrameworkCore;
 
 namespace CursoOnline.Dados.Context
